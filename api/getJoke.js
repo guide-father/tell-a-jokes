@@ -2,7 +2,7 @@ exports.handler = async (event,context,cb) => {
     return {
       statusCode: 200,
       message:"success",
-      body: joke,
+      body: "Here is a joke",
     }
   
   }
