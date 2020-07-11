@@ -1,5 +1,5 @@
-var giveMeAJoke = require('give-me-a-joke');
 
+const giveMeAJoke = require('give-me-a-joke');
 
 exports.handler = async (event,context,cb) => {
   
